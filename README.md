@@ -2,7 +2,7 @@
 
 I spent a week building this project to try and learn Javascript/React for the first time. The various algorithms provided are DFS, BFS, Bidirectional BFS, Dijkstra's, A*, and recursive division maze generation. Read below for instructions on how to use the app. Click [HERE](https://justinlorenz.github.io/Pathfinding_Visualizer/) to play around with the visualizer. 
 
-<img src="./imgs/visualization.gif" width="1000">
+<img src="./imgs/visualization.gif" width="700">
 
 ## App Instructions
 1. Click on the __start node__ or __end node__ to pick it up & click again to place it down
